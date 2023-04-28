@@ -1,0 +1,2 @@
+consensus_chop_filtered_test_sample_0_0(374),FJ493497.1 Monomastix sp. OKE-1 chloroplast, complete genome,0.0
+consensus_chop_filtered_test_sample_0_0(374),FJ493497.1 Monomastix sp. OKE-1 chloroplast, complete genome,0.0

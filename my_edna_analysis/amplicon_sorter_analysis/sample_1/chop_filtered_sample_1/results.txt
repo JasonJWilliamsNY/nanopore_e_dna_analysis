@@ -1,0 +1,54 @@
+-----------------------------------------------------------
+amplicon_sorter version: 2023-03-24
+-----------------------------------------------------------
+- date and time = April 28, 2023, 02:25PM
+- input file = /home/exouser/my_edna_analysis/porechop_abi_analysis/sample_1/chop_filtered_sample_1.fastq
+- output folder = /home/exouser/my_edna_analysis/amplicon_sorter_analysis/sample_1/chop_filtered_sample_1
+- minlength = 300
+- maxlength = None
+- maxreads = 10000
+- allreads = False
+- n_processes = 8
+- similar_genes = 80.0
+- similar_species_groups = 91 (Estimated)
+- similar_species = 90.0
+- similar_consensus = 96.0
+- length_difference_consensus = 8.0
+- save_fastq = False
+- random = False
+- compare_all = False
+- histogram_only = False
+- species_only = False
+-----------------------------------------------------------
+0/8 sequences assigned in groups for chop_filtered_sample_1_13.group (0.0%)
+0/29 sequences assigned in groups for chop_filtered_sample_1_10.group (0.0%)
+0/12 sequences assigned in groups for chop_filtered_sample_1_9.group (0.0%)
+--> chop_filtered_sample_1_4_0.fasta contains 62 sequences (35.84%)
+62/173 sequences assigned in groups for chop_filtered_sample_1_4.group (35.84%)
+0/7 sequences assigned in groups for chop_filtered_sample_1_18.group (0.0%)
+0/10 sequences assigned in groups for chop_filtered_sample_1_12.group (0.0%)
+--> chop_filtered_sample_1_3_0.fasta contains 45 sequences (93.75%)
+45/48 sequences assigned in groups for chop_filtered_sample_1_3.group (93.75%)
+0/9 sequences assigned in groups for chop_filtered_sample_1_8.group (0.0%)
+0/24 sequences assigned in groups for chop_filtered_sample_1_2.group (0.0%)
+0/7 sequences assigned in groups for chop_filtered_sample_1_20.group (0.0%)
+0/6 sequences assigned in groups for chop_filtered_sample_1_16.group (0.0%)
+0/15 sequences assigned in groups for chop_filtered_sample_1_15.group (0.0%)
+0/20 sequences assigned in groups for chop_filtered_sample_1_17.group (0.0%)
+0/13 sequences assigned in groups for chop_filtered_sample_1_11.group (0.0%)
+0/6 sequences assigned in groups for chop_filtered_sample_1_14.group (0.0%)
+0/17 sequences assigned in groups for chop_filtered_sample_1_1.group (0.0%)
+0/50 sequences assigned in groups for chop_filtered_sample_1_5.group (0.0%)
+0/12 sequences assigned in groups for chop_filtered_sample_1_19.group (0.0%)
+0/16 sequences assigned in groups for chop_filtered_sample_1_6.group (0.0%)
+0/39 sequences assigned in groups for chop_filtered_sample_1_7.group (0.0%)
+--> chop_filtered_sample_1_0_0.fasta contains 3830 sequences (58.83%)
+--> chop_filtered_sample_1_0_1.fasta contains 228 sequences (3.5%)
+--> chop_filtered_sample_1_0_2.fasta contains 42 sequences (0.65%)
+--> chop_filtered_sample_1_0_3.fasta contains 221 sequences (3.39%)
+--> chop_filtered_sample_1_0_4.fasta contains 111 sequences (1.71%)
+--> chop_filtered_sample_1_0_5.fasta contains 90 sequences (1.38%)
+--> chop_filtered_sample_1_0_6.fasta contains 16 sequences (0.25%)
+--> chop_filtered_sample_1_0_7.fasta contains 118 sequences (1.81%)
+--> chop_filtered_sample_1_0_8.fasta contains 71 sequences (1.09%)
+4727/6510 sequences assigned in groups for chop_filtered_sample_1_0.group (72.61%)
